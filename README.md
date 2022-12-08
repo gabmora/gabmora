@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @gabmora
-- 👀 I’m interested in UX development 
-- 🌱 I’m currently learning AWS machine learning and python languages
+- 👀 I’m interested in data managment
+- 🌱 I’m currently focused in learning AWS machine learning and python, and SQL
+        as well as snowflake & qlik
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me ...gabriela.morales@capgemini.com
 
